@@ -68,7 +68,7 @@ const Header: React.FC = () => {
 
           <Box sx={{ flexGrow: 0 }}>
             <Typography variant="caption" sx={{ color: 'white', display: { xs: 'none', md: 'block' } }}>
-              Powered by Microsoft's AI technology
+              Powered by Farmvibes.AI 
             </Typography>
           </Box>
         </Toolbar>
